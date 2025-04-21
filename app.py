@@ -34,7 +34,7 @@ graph_builder.add_edge("chatbot", END)
 graph = graph_builder.compile()
 
 # Streamlit UI
-st.set_page_config(page_title="Lendora Assistant", layout="wide")
+st.set_page_config(page_title="FinAssist", layout="wide")
 
 # Add custom CSS for a modern and minimalistic design
 st.markdown("""
@@ -121,7 +121,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # App Title and Description
-st.title("Lendora Assistant 🤖")
+st.title("FinAssist 🤖")
 st.markdown("<h2>Your AI-powered Chat Assistant for Financial Support</h2>", unsafe_allow_html=True)
 st.markdown('<p class="description">Ask me anything about financial assistance and I\'ll provide helpful responses. Let\'s chat!</p>', unsafe_allow_html=True)
 
