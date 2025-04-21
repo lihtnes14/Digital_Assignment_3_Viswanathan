@@ -1,6 +1,6 @@
-# Lendora Assistant 🤖
+# FinAssist 🤖
 
-Lendora Assistant is an AI-powered chatbot designed to assist users with financial support and guidance. Built using LangChain, Groq LLM, and Streamlit, this app provides intelligent, personalized conversations about various financial topics. 
+FinAssist is an AI-powered chatbot designed to assist users with financial support and guidance. Built using LangChain, Groq LLM, and Streamlit, this app provides intelligent, personalized conversations about various financial topics. 
 
 ## Features
 - AI-powered chatbot to provide instant financial support.
@@ -29,8 +29,8 @@ To run this application locally, follow the steps below:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/lendora-assistant.git
-    cd lendora-assistant
+    git clone https://github.com/viswa2k4/Digital_Assignment_3_Viswanathan.git
+    cd Digital_Assignment_3_Viswanathan
     ```
 
 2. Set up a virtual environment (optional but recommended):
